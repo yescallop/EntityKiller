@@ -1,0 +1,6 @@
+name: EntityKiller
+version: "1.0.0"
+api: ["1.0.0"]
+author: Scallop
+description: EntityKiller
+main: cn.yescallop.entitykiller.EntityKiller
